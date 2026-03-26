@@ -1,0 +1,149 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podded Profits Trade Routes</title>
+    <description>Live EVE Online trade route danger feed.</description>
+    <link>https://transthoracic-unrepulsively-ocie.ngrok-free.dev/traderoutes</link>
+    <atom:link href="https://transthoracic-unrepulsively-ocie.ngrok-free.dev/traderoutes" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2026 14:05:44 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 14:05:44 GMT</pubDate>
+    <ttl>5</ttl>
+    <item>
+      <title>Podded Profits Trade Route Update - 2026-03-26T14:05:44Z</title>
+      <description><![CDATA[PODDED PROFITS TRADE ROUTE HELPER
+Updated: 2026-03-26 14:05 UTC
+
+SAFE TRADE ROUTES
+---------------------------
+ROUTE: Jita -> Amarr
+Risk: SEVERE
+Primary Threat: Urlen
+Route Temp: HOT
+Live Spikes: 11
+
+ROUTE: Jita -> Dodixie
+Risk: SEVERE
+Primary Threat: Dodixie
+Route Temp: HOT
+Live Spikes: 7
+
+ROUTE: Jita -> Hek
+Risk: SEVERE
+Primary Threat: Urlen
+Route Temp: HOT
+Live Spikes: 7
+
+ROUTE: Jita -> Rens
+Risk: SEVERE
+Primary Threat: Urlen
+Route Temp: HOT
+Live Spikes: 7
+
+HIGH-RISK SHORTCUT ROUTES
+---------------------------
+ROUTE: Jita -> Amarr
+Risk: SEVERE
+Primary Threat: Jita
+Route Temp: HOT
+Live Spikes: 3
+
+ROUTE: Jita -> Dodixie
+Risk: SEVERE
+Primary Threat: Dodixie
+Route Temp: HOT
+Live Spikes: 6
+
+ROUTE: Jita -> Hek
+Risk: SEVERE
+Primary Threat: Otou
+Route Temp: HOT
+Live Spikes: 4
+
+ROUTE: Jita -> Rens
+Risk: SEVERE
+Primary Threat: Otou
+Route Temp: HOT
+Live Spikes: 4]]></description>
+      <link>https://transthoracic-unrepulsively-ocie.ngrok-free.dev/traderoutes</link>
+      <guid isPermaLink="false">4eb69223bfd3f1cb26e8dc90bdfa729fc2ad3ae20ea5cbeb92223c08619e7a64</guid>
+      <pubDate>Thu, 26 Mar 2026 14:05:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podded Profits Trade Routes</title>
+    <description>Live EVE Online trade route danger feed.</description>
+    <link>https://transthoracic-unrepulsively-ocie.ngrok-free.dev/traderoutes</link>
+    <atom:link href="https://transthoracic-unrepulsively-ocie.ngrok-free.dev/traderoutes" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2026 14:05:44 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 14:05:44 GMT</pubDate>
+    <ttl>5</ttl>
+    <item>
+      <title>Podded Profits Trade Route Update - 2026-03-26T14:05:44Z</title>
+      <description><![CDATA[PODDED PROFITS TRADE ROUTE HELPER
+Updated: 2026-03-26 14:05 UTC
+
+SAFE TRADE ROUTES
+---------------------------
+ROUTE: Jita -> Amarr
+Risk: SEVERE
+Primary Threat: Urlen
+Route Temp: HOT
+Live Spikes: 11
+
+ROUTE: Jita -> Dodixie
+Risk: SEVERE
+Primary Threat: Dodixie
+Route Temp: HOT
+Live Spikes: 7
+
+ROUTE: Jita -> Hek
+Risk: SEVERE
+Primary Threat: Urlen
+Route Temp: HOT
+Live Spikes: 7
+
+ROUTE: Jita -> Rens
+Risk: SEVERE
+Primary Threat: Urlen
+Route Temp: HOT
+Live Spikes: 7
+
+HIGH-RISK SHORTCUT ROUTES
+---------------------------
+ROUTE: Jita -> Amarr
+Risk: SEVERE
+Primary Threat: Jita
+Route Temp: HOT
+Live Spikes: 3
+
+ROUTE: Jita -> Dodixie
+Risk: SEVERE
+Primary Threat: Dodixie
+Route Temp: HOT
+Live Spikes: 6
+
+ROUTE: Jita -> Hek
+Risk: SEVERE
+Primary Threat: Otou
+Route Temp: HOT
+Live Spikes: 4
+
+ROUTE: Jita -> Rens
+Risk: SEVERE
+Primary Threat: Otou
+Route Temp: HOT
+Live Spikes: 4]]></description>
+      <link>https://transthoracic-unrepulsively-ocie.ngrok-free.dev/traderoutes</link>
+      <guid isPermaLink="false">4eb69223bfd3f1cb26e8dc90bdfa729fc2ad3ae20ea5cbeb92223c08619e7a64</guid>
+      <pubDate>Thu, 26 Mar 2026 14:05:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+>>>>>>> 6bb454067b0b6274dff778d918a368fc14a1a76e
