@@ -110,8 +110,8 @@ p { margin: 0 0 16px; color: var(--muted); }
 }
 
 .brand img {
-  width: 52px;
-  height: 52px;
+  width: 104px;
+  height: 104px;
   border-radius: 50%;
 }
 
@@ -124,11 +124,11 @@ p { margin: 0 0 16px; color: var(--muted); }
 .brand-text strong {
   font-family: Georgia, serif;
   color: var(--navy-dark);
-  font-size: 1.15rem;
+  font-size: 2.3rem;
 }
 
 .brand-text span {
-  font-size: 0.72rem;
+  font-size: 1.44rem;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: var(--gold);
@@ -600,7 +600,7 @@ section { padding: 90px 0; }
 @media (max-width: 720px) {
   .main-nav {
     position: fixed;
-    top: 76px;
+    top: 128px;
     left: 0;
     right: 0;
     background: var(--white);
